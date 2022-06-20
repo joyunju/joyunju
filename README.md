@@ -21,6 +21,5 @@ Here are some ideas to get you started:
 </a>
 <!-- GitHub followers -->
 <img src="https://img.shields.io/github/followers/joyunju?style=social">
-![](https://img.shields.io/github/followers/joyunju?style=social)
 
 

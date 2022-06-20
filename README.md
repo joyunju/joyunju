@@ -17,12 +17,10 @@ Here are some ideas to get you started:
 <div>
 <!-- HITS로 방문자 수 -->
 <a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoyunju&count_bg=%233D89C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"
-       style="margin-right : 100px;"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoyunju&count_bg=%233D89C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </a>
 <!-- GitHub followers -->
-<img src="https://img.shields.io/github/followers/joyunju?style=social"
-     style="margin-left : 100px;"/>
+<img src="https://img.shields.io/github/followers/joyunju?style=social"/>
   
 <!--  instagram -->
 <!--   

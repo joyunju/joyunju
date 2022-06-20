@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </a>
 <!-- GitHub followers -->
 <img src="https://img.shields.io/github/followers/joyunju?style=social"
-     style="height : auto; margin-left : 100px; margin-right : 10px;"/>
+     style="margin-left : 100px;">
   
 <!--  instagram -->
 <!--   

@@ -37,7 +37,12 @@ Here are some ideas to get you started:
  -->
 </div>
 
-
+<div align=left>
+  <h3>📍 Project </h3>
+  <a href="https://github.com/joyunju">
+    <img src="https://img.shields.io/badge/SPOTMATE-4454A1?style=for-the-badge&logo=SPOTMATE&logoColor=white"/>
+  </a>
+</div>
 
 <div align=left>
   <h3>👩🏻‍💻 Tech Stacks </h3>

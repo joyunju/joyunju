@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <div align=left>
   <h3>📍 Study </h3>
-  <a href="https://github.com/joyunju">
+  <a href="https://zoo-land.tistory.com" target="_blank">
     <img src="https://img.shields.io/badge/zooland-EC5990?style=for-the-badge&logo=zooland&logoColor=white"/>
   </a>
   <a href="https://github.com/joyunju">

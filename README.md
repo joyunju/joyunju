@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/github/followers/joyunju?style=social"/>
   
 <!--  instagram -->
-<!--   
-<a href="https://instagram.com/alpox.dev">
+  
+<a href="https://www.instagram.com/yun_zzoo">
     <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
- -->
+
 </div>
 
 <div align=left>

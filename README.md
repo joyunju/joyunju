@@ -1,45 +1,38 @@
-### Hi there ✨
-
 <!--
-**joyunju/joyunju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img src="https://komarev.com/ghpvc/?username=joyunju&&style=flat-square" align="right" />
 -->
 
+<div align="right">
+  <!-- HITS로 방문자 수 -->
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoyunju&count_bg=%233D89C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  
+  <img src="https://komarev.com/ghpvc/?username=joyunju&&style=flat-round"/>
+  <!-- GitHub followers -->
+  <img src="https://img.shields.io/github/followers/joyunju?style=social"/>
+</div>  
+  
+<br/> 
+
+## Hi There ✨
+
+### Contact 🎧
 <div>
-<!-- HITS로 방문자 수 -->
-<!--   
-<a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoyunju&count_bg=%233D89C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+<a href="https://github.com/joyunju" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
- -->
- 
- <a href="https://github.com/joyunju/">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoyunju&count_bg=%233D89C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+<a href="https://instagram.com/yun_zzoo" target="_blank">
+  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram  style="margin-bottom: 5px;" />
 </a>
-<!-- GitHub followers -->
-<img src="https://img.shields.io/github/followers/joyunju?style=social"/>
-  
-<!--  instagram -->
-  
+<!--  instagram 
 <a href="https://www.instagram.com/yun_zzoo">
     <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
+--> 
 </div>
 
 <div align=left>
-  <h3>✨📍 Project </h3>
+  <h3>📍 Project </h3>
   <a href="https://github.com/joyunju">
     <img src="https://img.shields.io/badge/SPOTMATE-4454A1?style=for-the-badge&logo=SPOTMATE&logoColor=white"/>
   </a>
@@ -56,7 +49,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align=left>
-  <h3>✨👩🏻‍💻 Tech Stacks </h3>
+  <h3>👩🏻‍💻 Tech Stacks </h3>
   <!-- 
   <img src="https://img.shields.io/badge/아이콘의 내용-배경색?style=flat&logo=로고이름&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
@@ -110,4 +103,18 @@ Here are some ideas to get you started:
 
 <hr>
 
+<!--
+**joyunju/joyunju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
